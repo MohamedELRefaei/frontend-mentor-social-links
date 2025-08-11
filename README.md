@@ -7,15 +7,12 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### The challenge
 
 Users should be able to:
+
 - See hover and focus states for all interactive elements on the page
-
-### Screenshot
-
-![](./screenshot.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [(https://www.frontendmentor.io/profile/MohamedELRefaei)]
 
 ## My process
 
@@ -34,4 +31,4 @@ This project helped me practice CSS custom properties, Flexbox layouts, and crea
 ## Author
 
 - GitHub - [@MohamedELRefaei](https://github.com/MohamedELRefaei)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [MohamedELRefaei](https://www.frontendmentor.io/profile/MohamedELRefaei)
